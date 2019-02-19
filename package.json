@@ -1,0 +1,24 @@
+{
+  "name": "my-amazon",
+  "version": "1.0.0",
+  "description": "Class Project",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KruseJohn/My-Amazon.git"
+  },
+  "author": "KruseJohn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KruseJohn/My-Amazon/issues"
+  },
+  "homepage": "https://github.com/KruseJohn/My-Amazon#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0"
+  }
+}
